@@ -5,6 +5,9 @@
 ### Minhas Habilidades:
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,angular)](https://skillicons.dev)
 
+### Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,azure,docker,rabbitmq)](https://skillicons.dev)
+
 ### Redes Sociais:
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jefferson-junior-793a95215/)
 
