@@ -4,7 +4,7 @@
 
 ### Minhas Habilidades
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular,git,rabbitmq,docker,azure"" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=cs,dotnet,ts,angular"" alt="My Skills"/>
 </a>
 
 ### Minhas Ferramentas
