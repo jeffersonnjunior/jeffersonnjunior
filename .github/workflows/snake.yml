@@ -2,7 +2,7 @@ name: Generate Snake Game
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  
+    - cron: "0 0 * * *"  # Executa diariamente à meia-noite
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,11 @@ jobs:
     steps:
       - name: Clonando o repositório
         uses: actions/checkout@v2
+
       - name: Gerando animação da cobrinha
         uses: Platane/snk@v2
         with:
-          github_user_name: jeffersonnjunior
+          github_user_name: jeffersonnjunior  
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Adicionando ao commit
