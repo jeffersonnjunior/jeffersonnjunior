@@ -24,6 +24,4 @@
    <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=jeffersonnjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeffersonnjunior/jeffersonnjunior/output/github-contribution-grid-snake.svg" />
