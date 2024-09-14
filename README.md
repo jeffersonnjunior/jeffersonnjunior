@@ -12,7 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jefferson-junior-793a95215/)
 
 
-![Snake animation](https://github.com/jeffersonnjunior/jeffersonnjunior/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jeffersonnjunior/blob/output/github-contribution-grid-snake.svg)
 
 
 
