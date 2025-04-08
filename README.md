@@ -9,7 +9,7 @@
 
 ### Minhas Ferramentas
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,postgres,mongodb,rabbitmq,docker,azure"" alt="My Skills"/>
+<img src="https://skillicons.dev/icons?i=git,postgres,mongodb,rabbitmq,docker,nginx,azure"" alt="My Skills"/>
 </a>
 
 ### Redes Sociais
