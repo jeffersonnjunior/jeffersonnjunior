@@ -17,6 +17,7 @@
 </a>
 
 ### 📱 Redes Sociais  
+
 <a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
@@ -24,17 +25,11 @@
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
 
-### Estatísticas GitHub
+### 📊 Estatísticas GitHub
 
-<table>
-  <tr>
-    <td>
-      <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=jeffersonnjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    </td>
-    <td>
-      <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnjunior&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-    </td>
-  </tr>
-</table>
+<div align="left">
+  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=jeffersonnjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="display: inline-block; margin-right: 10px;" />
+  <img width="390" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonnjunior&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" style="display: inline-block;" />
+</div>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeffersonnjunior/jeffersonnjunior/output/github-contribution-grid-snake.svg" />
