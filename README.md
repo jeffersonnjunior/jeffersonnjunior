@@ -19,10 +19,10 @@
 ### 📱 Redes Sociais  
 
 <a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  <img src="https://skillicons.dev/icons?i=instagram" alt="LinkedIn" />
 </a>
 <a href="https://www.linkedin.com/in/jefferson-junior-793a95215/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="Instagram" />
 </a>
 
 ### 📊 Estatísticas GitHub
