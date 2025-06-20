@@ -6,7 +6,7 @@
 * 💻 Desenvolvedor Full-Stack  
 * 🎓 Engenharia de Software  
 
-### Minhas Tecnologias
+### 🛠️ Minhas Tecnologias e Ferramentas
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=ts,angular,cs,dotnet,py,fastapi" alt="Skills" />
