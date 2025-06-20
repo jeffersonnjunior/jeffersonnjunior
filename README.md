@@ -14,12 +14,14 @@
 </div>
 
 ### Redes Sociais
-<a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"/>
-</a>
-<a href="https://www.linkedin.com/in/jefferson-junior-793a95215/">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-</a>
+<div align="center">
+  <a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/jefferson-junior-793a95215/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+</div>
 
 <div align="center">
   <img width="390" height="200" src="https://github-readme-stats.vercel.app/api?username=jeffersonnjunior&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" style="display:inline-block; vertical-align:top;" />
