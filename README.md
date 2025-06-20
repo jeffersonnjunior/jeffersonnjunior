@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Jefferson+Junior;Atuo+Como+Desenvolvedor+Full-Stack;Estou+Graduando+Engenharia+de+Software;Seja+Bem-Vindo!)](https://git.io/typing-svg)
 
-### Minhas Tecnologias
+### <div align="center">Minhas Tecnologias</div>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,angular,cs,dotnet,py,fastapi" alt="Skills" />
@@ -13,7 +13,9 @@
   </a>
 </div>
 
-### Redes Sociais
+### <div align="center">Redes Sociais</div>
+<div align="center">Me acompanhe nas redes sociais 👇</div>
+
 <div align="center">
   <a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
