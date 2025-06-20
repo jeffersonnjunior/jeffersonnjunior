@@ -2,9 +2,9 @@
 
 ## 👋 Olá! Me chamo Jefferson Junior
 
-🌍 Curitiba - PR  
-💻 Desenvolvedor Full-Stack  
-🎓 Graduando em Engenharia de Software  
+* 🌍 Curitiba - PR  
+* 💻 Desenvolvedor Full-Stack  
+*🎓 Engenharia de Software  
 
 ### Minhas Tecnologias
 
