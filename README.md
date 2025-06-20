@@ -14,8 +14,6 @@
 </div>
 
 ### <div align="center">Redes Sociais</div>
-<div align="center">Me acompanhe nas redes sociais 👇</div>
-
 <div align="center">
   <a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
