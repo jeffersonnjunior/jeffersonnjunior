@@ -16,15 +16,6 @@
   <img src="https://skillicons.dev/icons?i=git,postgres,redis,mongodb,rabbitmq,docker,kubernetes,nginx,azure" alt="Ferramentas" />
 </a>
 
-### 📱 Redes Sociais  
-
-<a href="https://instagram.com/jeffersonn_juniorr?utm_source=qr&igshid=MThlNWY1MzQwNA==" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-</a>
-<a href="https://www.linkedin.com/in/jefferson-junior-793a95215/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-
 ### 📊 Estatísticas GitHub
 
 <div align="left">
