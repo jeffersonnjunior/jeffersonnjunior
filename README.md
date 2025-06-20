@@ -1,6 +1,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+Chamo+Jefferson+Junior;Atuo+Como+Desenvolvedor+Full-Stack;Estou+Graduando+Engenharia+de+Software;Seja+Bem-Vindo!)](https://git.io/typing-svg)
+<div align="center">
+  
+## 👋 Olá! Me chamo Jefferson Junior
+
+🌍  Curitiba - PR  
+💻  Desenvolvedor Full-Stack  
+🎓  Engenharia de Software  
+
+</div>
 
 ### <div align="center">Minhas Tecnologias</div>
 <div align="center">
