@@ -4,7 +4,7 @@
 
 * 🌍 Curitiba - PR  
 * 💻 Desenvolvedor Full-Stack  
-* 🎓 Engenharia de Software  
+* 🎓 Engenharia de Software   Jr
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
