@@ -13,7 +13,7 @@
 </a>  
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,postgres,redis,mongodb,rabbitmq,docker,kubernetes,nginx,azure" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,postgres,redis,mongodb,rabbitmq,docker,kubernetes,azure,nginx" alt="Ferramentas" />
 </a>
 
 ### 📊 Estatísticas GitHub
