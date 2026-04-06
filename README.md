@@ -9,7 +9,7 @@
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=ts,angular,cs,dotnet,py,fastapi" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,angular,cs,dotnet,py,fastapi,pytorch" alt="Skills" />
 </a>  
 <br/>
 <a href="https://skillicons.dev">
