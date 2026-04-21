@@ -13,7 +13,7 @@
 </a>  
 <br/>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,postgres,redis,mongodb,rabbitmq,docker,kubernetes,azure,nginx" alt="Ferramentas" />
+  <img src="https://skillicons.dev/icons?i=git,postgres,redis,mongodb,rabbitmq,docker,kubernetes,azure" alt="Ferramentas" />
 </a>
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/jeffersonnjunior/jeffersonnjunior/output/github-contribution-grid-snake-dark.svg" />
